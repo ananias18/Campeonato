@@ -1,0 +1,15 @@
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\aula7.csproj.AssemblyReference.cache
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\aula7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\aula7.AssemblyInfoInputs.cache
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\aula7.AssemblyInfo.cs
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\aula7.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\bin\Debug\net6.0\aula7.exe
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\bin\Debug\net6.0\aula7.deps.json
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\bin\Debug\net6.0\aula7.runtimeconfig.json
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\bin\Debug\net6.0\aula7.dll
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\bin\Debug\net6.0\aula7.pdb
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\aula7.dll
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\refint\aula7.dll
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\aula7.pdb
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\aula7.genruntimeconfig.cache
+D:\Desenvolvimento Visualcode\Orientação obguana\aula07_relacionamento_entre_classes\aula7\obj\Debug\net6.0\ref\aula7.dll
